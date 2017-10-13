@@ -1,0 +1,8 @@
+{
+  "name": "algobox",
+  "version": "0.0.1",
+  "description": "AlgoBox utilities",
+  "main": "index.js",
+  "author": "gauravtiwari5050@gmail.com",
+  "license": "GPLv2"
+}
